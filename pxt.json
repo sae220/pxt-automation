@@ -1,5 +1,6 @@
 {
     "name": "automation",
+    "displayName": "Automation",
     "version": "0.0.3",
     "description": "Automation, Process Control, Systems and Controls",
     "files": [
